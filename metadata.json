@@ -1,0 +1,12 @@
+{
+  "name": "Remix: VS Creative Studio",
+  "description": "Premium digital agency by Vashu Singh, specializing in photo editing, video editing, and modern brand design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
